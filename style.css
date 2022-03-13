@@ -12,6 +12,7 @@ header h1{
     font-size: 50px;
     margin: 0px;
 }
+
 body {
     margin: 0px;
 }
@@ -72,6 +73,12 @@ nav a {
     background-color: teal;
 }
 
+#test {
+    flex: 1 0 200px;
+  border-width: 1px;
+  display: flex;
+  flex-wrap: wrap;
+}
 
 body h2 {
     background-color: coral;
