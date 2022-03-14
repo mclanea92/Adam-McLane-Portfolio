@@ -73,6 +73,18 @@ nav a {
     background-color: teal;
 }
 
+.contact {
+    background-color: teal;
+}
+
+.contact1 {
+    background-color: teal;
+    text-align: center;
+    border: solid rgb(134, 231, 231);
+    border-width: 1px;
+    font-size: 20px;
+    list-style-type: none;
+}
 #test {
     flex: 1 0 200px;
   border-width: 1px;
@@ -85,4 +97,5 @@ body h2 {
     padding: 10px;
     text-align: center;
     border: 5px black solid;
+    
 }
