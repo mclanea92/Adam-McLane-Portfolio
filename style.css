@@ -1,6 +1,7 @@
 * {
     font-family: monospace;
     color: black;
+    background-color: teal;
 }
 header{
     background-color: coral;
@@ -11,6 +12,7 @@ header{
 header h1{
     font-size: 50px;
     margin: 0px;
+    background-color: coral;
 }
 
 body {
@@ -33,6 +35,14 @@ nav a {
     font-size: 20px;
 }
 
+nav a:hover {
+    background-color: coral;
+}
+
+nav a:active {
+    color: coral;
+}
+
 .about {
     display: inline-block;
     padding: 5px;
@@ -43,6 +53,14 @@ nav a {
     font-size: 18px;
 }
 
+h2 {
+    background-color: coral;
+    padding: 10px;
+    text-align: center;
+    border: 5px black solid;
+    font-size: 20px;
+}
+
 .about p{
     position: flex;
     width: 80%;
@@ -50,11 +68,8 @@ nav a {
     text-align: right;
 }
 
-#photo {
-    display: inline-block;
-    width: 20%;
-    right: 50%;
-    width: 20%;
+#photome {
+    display: inline-flexbox;
 }
 
 .work {
@@ -70,11 +85,20 @@ nav a {
     text-align: center;
     border: solid rgb(134, 231, 231);
     border-width: 1px;
-    background-color: teal;
+    background-color: teal;    
+}
+
+.resize {
+    width: 200px;
+    height: auto;
 }
 
 .contact {
     background-color: teal;
+    border: 5px;
+    display: inline;
+    padding: 5px;
+    border: 5px solid black;
 }
 
 .contact1 {
@@ -92,10 +116,4 @@ nav a {
   flex-wrap: wrap;
 }
 
-body h2 {
-    background-color: coral;
-    padding: 10px;
-    text-align: center;
-    border: 5px black solid;
-    
-}
+
