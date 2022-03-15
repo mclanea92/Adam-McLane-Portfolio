@@ -69,7 +69,7 @@ h2 {
 }
 
 #photome {
-    display: inline-flexbox;
+    display: inline-flex;
 }
 
 .work {
