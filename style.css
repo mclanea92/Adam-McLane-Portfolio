@@ -116,12 +116,18 @@ h2 {
 
 
 .contact1 {
+    display: inline-flex;
     background-color: teal;
     text-align: center;
     border: solid rgb(134, 231, 231);
     border-width: 1px;
     font-size: 20px;
-    list-style-type: none;
+    padding: 5px;
+    text-decoration:underline
+    ;
+}
+#reach {
+    text-align: center;
 }
 #test {
     flex: 1 0 200px;
