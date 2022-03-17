@@ -91,16 +91,16 @@ h2 {
 
 .resize {
     width: 200px;
+    height: 200px;
     height: auto;
     padding-top: 30px;
 }
 
 .project:hover {
     position:relative;
-    top:-25px;
-    bottom: -25px;
     font-weight: bolder;
     font-style: italic;
+    transform: scale(1.1);
 }
 
 .contact {
