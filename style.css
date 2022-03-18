@@ -10,7 +10,7 @@ header{
     border: 5px black solid;
 }
 header h1{
-    font-size: 50px;
+    font-size: 60px;
     margin: 0px;
     background-color: coral;
 }
@@ -53,15 +53,13 @@ nav a:active {
     font-size: 18px;
 }
 
-.about h2 {
-    font-size: 40px;
-}
+
 h2 {
     background-color: coral;
     padding: 10px;
     text-align: center;
     border: 5px black solid;
-    font-size: 20px;
+    font-size: 32px;
 }
 
 .about p{
@@ -82,7 +80,7 @@ h2 {
 }
 
 .work h2 {
-    font-size: 40px;
+    font-size: 32px;
 }
 
 .project {
@@ -150,9 +148,6 @@ h2 {
     text-decoration: underline;
 }
 
-#reach h2 {
-    font-size: 40px;
-}
 
 .contact1 a {
     text-decoration: none;
