@@ -53,6 +53,9 @@ nav a:active {
     font-size: 18px;
 }
 
+.about h2 {
+    font-size: 40px;
+}
 h2 {
     background-color: coral;
     padding: 10px;
@@ -79,15 +82,23 @@ h2 {
     border-top: 0px;
 }
 
+.work h2 {
+    font-size: 40px;
+}
+
 .project {
     flex: 1 0 200px;
     padding: 5px;
     padding-bottom: 0;
     text-align: center;
-    border: solid rgb(134, 231, 231);
+    border: solid rgb(42, 43, 95);
     border-width: 1px;
     background-color: teal;
     font-size: 16px;   
+}
+
+.project header {
+    background-color: rgb(238, 188, 169);
 }
 
 .project img {
@@ -138,6 +149,10 @@ h2 {
 
 .contact1 a:hover {
     text-decoration: underline;
+}
+
+#reach h2 {
+    font-size: 40px;
 }
 
 .contact1 a {
