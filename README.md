@@ -46,9 +46,9 @@ https://mclanea92.github.io/Adam-McLane-Portfolio/
 
 This screenshot below is the top of my portfolio page, I created a menu with about me, my work, contact and github.  
 
-![top of my portfolio page](./top%20port.png)
+![top of my portfolio page](./assets/topport.png)
 
 
 The screenshot below, is my work portion of my portfolio.  It shows how its interactive if you hover over the specifc project.
 
-![My work part of my page](./my%20work.png)
+![My work part of my page](./assets/my%20work.png)
