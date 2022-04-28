@@ -1,6 +1,15 @@
 # Adam-McLane-Portfolio
 
 
+## Technologies Used
+-HTML
+-CSS
+
+
+## About Application:
+This application is my portfolio.  It is a work in progress as I learn more about full stack coding I make updates to it.  I display my hardwork I have done thus far in my portfolio.
+
+
 ## User Story
 
 
