@@ -114,9 +114,9 @@ h2 {
     transform: scale(1.1);
 }
 
-.project:first-of-type {
+/* .project:first-of-type {
     flex-basis: 100%;
-}
+} */
 
 .project:first-of-type img{
     height: 200px;
