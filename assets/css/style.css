@@ -93,7 +93,7 @@ h2 {
     border-width: 1px;
     background-color: teal;
     font-size: 16px;   
-  
+    align-content: center;
 }
 
 .project header {
@@ -106,6 +106,8 @@ h2 {
     min-width: 200px;
     height: auto;
     padding-top: 30px;
+    margin-left: auto !important;
+    margin-right: auto !important;
 }
 
 .project:hover {
