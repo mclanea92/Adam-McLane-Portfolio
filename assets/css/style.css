@@ -82,6 +82,7 @@ h2 {
 
 .work h2 {
     font-size: 32px;
+
 }
 
 .project {
@@ -171,9 +172,9 @@ h2 {
     font-size: 20px;
 }
 
-/* section {
-    display: block;
+section {
+    vertical-align: center;
   
-} */
+}
 
 
