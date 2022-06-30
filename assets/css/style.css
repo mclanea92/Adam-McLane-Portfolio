@@ -23,7 +23,7 @@ body {
 nav {
     display: flex;
     background-color: teal;
-    justify-content: flex-end;
+    justify-content: center;
     border-left: 5px black solid;
     border-right: 5px black solid;
     border-bottom: 5px black solid;
@@ -74,7 +74,7 @@ h2 {
 
 #photome {
     display: inline-flex;
-    padding: 10px;
+    
 }
 
 .work {
@@ -179,6 +179,23 @@ h2 {
 section {
     vertical-align: center;
   
+}
+
+@media screen and (max-width: 400px){
+    nav {
+        flex-direction: column;
+    }
+    .about{
+        padding: 0;
+        margin: 0;
+        text-align: center;
+        object-fit: contain;
+    }
+    .adamphoto {
+       width: 320px;
+       height: auto;
+
+    }
 }
 
 
