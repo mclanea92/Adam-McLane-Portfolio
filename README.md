@@ -44,6 +44,9 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 https://mclanea92.github.io/Adam-McLane-Portfolio/
 
+## Deployed Site
+https://mclanea92.github.io/Adam-McLane-Portfolio/
+
 ## Screenshots
 
 This screenshot below is the top of my portfolio page, I created a menu with about me, my work, contact and github.  
